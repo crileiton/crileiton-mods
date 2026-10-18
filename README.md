@@ -1,12 +1,12 @@
-# granero-mods
+# crileiton-mods
 
 Marketplace personal de plugins para Claude Code.
 
 ## Instalar
 
 ```bash
-claude plugin marketplace add crileiton/granero-mods
-claude plugin install cache-keeper@granero-mods
+claude plugin marketplace add crileiton/crileiton-mods
+claude plugin install cache-keeper@crileiton-mods
 ```
 
 ## Plugins
