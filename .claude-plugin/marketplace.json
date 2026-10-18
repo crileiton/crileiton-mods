@@ -1,0 +1,12 @@
+{
+  "name": "granero-mods",
+  "description": "Mods de Claude Code de Cristian Leiton",
+  "owner": { "name": "Cristian Leiton Valencia" },
+  "plugins": [
+    {
+      "name": "cache-keeper",
+      "source": "./cache-keeper",
+      "description": "Keeps a big chat's prompt cache warm, warns before an expensive cold restart, shows every local chat on one board (/board), and hands a chat off to a fresh one (/handoff)"
+    }
+  ]
+}
